@@ -2,7 +2,7 @@ import { NextPage } from "next";
 
 const Header: NextPage = () => {
   return (
-    <div className="bg-tails h-52 w-screen flex flex-col justify-center items-center">
+    <div className="bg-tails h-64 w-screen flex flex-col justify-center items-center pb-20 bg-cover">
       <h1 className="text-white text-center text-3xl">
         IP Address Tracker
       </h1>
