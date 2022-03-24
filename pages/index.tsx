@@ -12,7 +12,7 @@ const Home: NextPage = () => {
   //     .then((data) => console.log(data));
   // }, []);
   return (
-    <div>
+    <div className="flex flex-col items-center">
       <Head>
         <title>IP Tracker Coding Challange</title>
       </Head>
